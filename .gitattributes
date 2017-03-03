@@ -1,0 +1,4 @@
+configure  linguist-vendored
+depcomp  linguist-vendored
+missing  linguist-vendored
+mkinstalleddirs linguist-vendored
